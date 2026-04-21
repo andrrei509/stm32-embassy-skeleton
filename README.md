@@ -26,5 +26,3 @@ To use this skeleton for a new lab or project, follow these steps:
 2. Run the following command to compile the code, flash it to the board, and open the log console:
    ```bash
    cargo run
-
-##  DULCE ANDREI-MARIAN 1222EEB
